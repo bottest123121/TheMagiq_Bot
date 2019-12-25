@@ -2,6 +2,14 @@
   <img src="assets/logo.png" width="180" height="180">
   <h1 align="center">The Magiq Bot</h1>
 </p>
+
+
+#Deploy To Heroku
+
+<p align="center">
+	[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+</p>
+
 The Magiq Bot is a Telegram bot made to help admins manage their groups.
 
 He is created to moderate [LetsMakeMagiq](https://t.me/LetsMakeMAGIQ).
