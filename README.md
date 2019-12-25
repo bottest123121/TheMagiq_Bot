@@ -6,9 +6,10 @@
 
 #Deploy To Heroku
 
-<p align="center">
-	[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
-</p>
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
+
 
 The Magiq Bot is a Telegram bot made to help admins manage their groups.
 
